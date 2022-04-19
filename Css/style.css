@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	font-size: 18px;
+	font-family: sane-sarif;
+	box-sizing: broder-box;
+	color:blue;
+	
+}
+a{
+	text-decoretion: none;
+	
+}
+img{
+	vertical-align: middle;
+}
+ol,ul{
+	list-style: none;
+}
+#main{
+	width: 400px;
+	height: 200px;
+	margin: 100px auto;
+	padding-top: 250px;
+	padding-right: 50px;
+	padding-bottom: 250px;
+	padding-left: 50px;
+    background-color: red; /* For browsers that do not support gradients */
+	background-image: radial-gradient(red 10%, yellow 30%, green 60%);
+}
+.name{
+	
+	font-size:20px;
+	font-style:italic;
+	font-weight:600;
+	text-align:center;
+	margin:30px 0 0 0;
+}	
+
+	
